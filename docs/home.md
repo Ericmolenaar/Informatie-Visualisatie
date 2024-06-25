@@ -1,10 +1,9 @@
-# The influence of life necessaties and political factors on life expectancy across income groups
+# Instroduction
 
 Authors: Joy Filtenborg, Elaine Jans, Khang Nguyen and Eric Molenaar
 
 Group: D2
 
-### Introduction
 Life expectancy is a critical indicator of a country’s health and development. It is influenced by several factors, including socioeconomic status, healthcare quality, political stability, and environmental conditions (Freeman et al., 2020). This datastory project aims to investigate the relationship between life expectancy and various factors across different income groups, using two World Bank datasets from Kaggle.
 
 **perspective 1: The political stability factors associated with life expectancy in a country do not show a similar correlation for all income groups.**
