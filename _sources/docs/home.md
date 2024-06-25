@@ -1,4 +1,4 @@
-# Instroduction
+# Introduction
 
 Authors: Joy Filtenborg, Elaine Jans, Khang Nguyen and Eric Molenaar
 
